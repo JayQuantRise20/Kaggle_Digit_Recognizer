@@ -1,6 +1,9 @@
 # Kaggle_Digit_Recognizer
 Machine_Learning
 
+## Learn computer vision fundamentals with the famous MNIST data
+
+
 ## Introduction 
 
 In this projetc which is taken from *Kaggle* website(https://www.kaggle.com/c/digit-recognizer) to write a competitive code for predicting the digits using Machine Learning techniques. 
